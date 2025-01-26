@@ -50,11 +50,8 @@ a:hover{
     color: black;
 }
 footer{
-    text-align: center;
-    padding: 5px;
+    width: 100%;
+    text-align: center;   
     background-color: aquamarine;
-}
-img{
-    height: 50px;
-    width: 50px;
+    
 }

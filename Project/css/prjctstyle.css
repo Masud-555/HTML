@@ -1,0 +1,38 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav{
+    height: 15vh;
+    width: auto;
+    background-color: rgb(94, 83, 83);
+}
+
+#navleft{
+    width: 60%;
+    float: left;
+}
+
+#navleft img{
+
+    align-content: center;
+    width: 8%;
+    display: block;
+    margin: 20px 20px 20px 20px;
+}
+#navright{
+    margin-top: 35px;
+    width: 40%;
+    display: block;
+    float: left;
+}
+#navright ul li{
+    background-color: azure;
+    padding: 5px;
+    display: block;
+    margin-left: 20px;
+    float: left;
+    list-style: none;
+}

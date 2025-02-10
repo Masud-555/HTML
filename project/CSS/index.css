@@ -26,7 +26,7 @@ nav{
     margin-top: 35px;
     width: 40%;
     display: block;
-    float: left;
+    float: right;
 }
 #navright ul li{
     background-color: azure;
